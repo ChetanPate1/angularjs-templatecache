@@ -1,0 +1,27 @@
+{
+  "name": "angularjs-templatecache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChetanPate1/angularjs-templatecache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChetanPate1/angularjs-templatecache/issues"
+  },
+  "homepage": "https://github.com/ChetanPate1/angularjs-templatecache#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.25",
+    "angular": "^1.7.9"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-angular-templatecache": "^3.0.0"
+  }
+}
